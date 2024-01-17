@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+body{
+    background: url("./assets/background-stars.svg");
+    background-repeat: no-repeat;
+    background: #070724;    
+}
