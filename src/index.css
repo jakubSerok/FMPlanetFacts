@@ -3,8 +3,7 @@
 @tailwind utilities;
 
 
-body{
-    background: url("./assets/background-stars.svg");
-    background-repeat: no-repeat;
-    background: #070724;    
+body {
+    background: #070724 url('./assets/background-stars.png');
+    background-size: cover;
 }
